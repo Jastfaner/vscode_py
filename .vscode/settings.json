@@ -1,9 +1,3 @@
 {
-    "python-envs.pythonProjects": [
-        {
-            "path": "minimind",
-            "envManager": "ms-python.python:venv",
-            "packageManager": "ms-python.python:pip"
-        }
-    ]
+    "python.pythonPath": "env/bin/python"
 }
